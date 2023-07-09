@@ -9,7 +9,7 @@
     "dev": "tsc --watch",
     "build": "npm run clean && tsc",
     "clean": "rm -rf dist",
-    "lint": "eslint src __tests__ --ext .js,.ts --cache --fix",
+    "lint": "eslint src __tests__ --ext .js,.ts --fix",
     "prepare": "husky install",
     "test": "jest"
   },
