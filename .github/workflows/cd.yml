@@ -18,7 +18,7 @@ jobs:
       # https://github.com/semantic-release/git/issues/209
       - run: npm ci --ignore-scripts
       - run: npm run build
-      - run: npx semantic-release
+      # - run: npx semantic-release
         env:
           GH_TOKEN: ${{ secrets.CBL_GH }}
           NPM_TOKEN: ${{ secrets.CBL_NPM }}
