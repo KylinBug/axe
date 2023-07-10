@@ -20,5 +20,5 @@ jobs:
       - run: npm run build
       - run: npx semantic-release
         env:
-          GH_TOKEN: ${{ secrets.CBL_GH }}
-          NPM_TOKEN: ${{ secrets.CBL_NPM }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
