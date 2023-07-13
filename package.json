@@ -20,7 +20,8 @@
   "author": "",
   "license": "ISC",
   "repository": {
-    "url": "https://github.com/KylinBug/axe"
+    "type": "git",
+    "url": "https://github.com/KylinBug/axe.git"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.6.6",
