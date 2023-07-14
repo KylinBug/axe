@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/KylinBug/cbl/compare/v1.0.0...v1.0.1) (2023-07-14)
+
+
+### Bug Fixes
+
+* test calc ([481ae7d](https://github.com/KylinBug/cbl/commit/481ae7dea4888e20afae1e56c1ab7c1be07f0eac))
+
 # 1.0.0 (2023-07-14)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "cbl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "automation template",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
