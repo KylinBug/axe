@@ -4,6 +4,9 @@
   "description": "automation template",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "type": "module",
   "scripts": {
     "dev": "tsc --watch",
