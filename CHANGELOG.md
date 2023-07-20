@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/nkylin/cbl/compare/v1.0.1...v1.1.0) (2023-07-20)
+
+
+### Features
+
+* log time ([cc5e8ab](https://github.com/nkylin/cbl/commit/cc5e8ab7a05c8de7dc5726d10860345d875073de))
+
 ## [1.0.1](https://github.com/KylinBug/cbl/compare/v1.0.0...v1.0.1) (2023-07-14)
 
 
