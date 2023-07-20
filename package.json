@@ -24,7 +24,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/KylinBug/cbl.git"
+    "url": "https://github.com/nkylin/cbl.git"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.6.6",
